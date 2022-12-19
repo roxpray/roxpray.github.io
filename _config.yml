@@ -8,19 +8,18 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 #commit 용도
 # Site Settings
 locale: "en-US"
-title: "Site Title"
+title: "First Of All"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
-description: "An amazing website."
+name: "roxpray"
+description: "my note"
 url: "https://roxpray.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "roxpray"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "**First Of All**"
+  location: "Republic of Korea"
   email:
   links:
     - label: "Email"
